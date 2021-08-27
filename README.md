@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- ![Junnplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=smile-chen95&show_icons=true&theme=vue) -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smile-chen95&layout=compact&theme=tokyonight) -->
+
+![snake gif](https://github.com/junnplus/junnplus/blob/output/github-contribution-grid-snake.svg)
